@@ -7,7 +7,8 @@
     - PEDRO OLIVEIRA - RM 99943
 
 ## Descrição do Projeto  
-Este código implementa um pequeno sistema de cadastro e a busca de exames patológicos realizados pelos pacientes, simulando a medição de tecidos nos laboratórios da DASA. Os dados de 12 pacientes (há repetições) já vêm armazenados em dicionários, cada um com valor da medição, intervalo de referência (max e min) e o resultado (“normal” ou “fora do intervalo”). O usuário do sistema interage por menu de texto, listando todos os exames dos pacientes ou buscando apenas pelo **nome** do paciente usando ordenação por **Insertion Sort** e pesquisa por **Busca Binária**.
+- Este código implementa um pequeno sistema de cadastro e a busca de exames patológicos realizados pelos pacientes, simulando a medição de tecidos nos laboratórios da DASA. Os dados de 12 pacientes (há repetições) já vêm armazenados em dicionários, cada um com valor da medição, intervalo de referência (max e min) e o resultado (“normal” ou “fora do intervalo”). O usuário do sistema interage por menu de texto, listando todos os exames dos pacientes ou buscando apenas pelo **nome** do paciente usando ordenação por **Insertion Sort** e pesquisa por **Busca Binária**.
+- Foi escolhida a segunda forma entre as opções da documentação, que retrata o Desafio 2 (Dimensões dos tecidos patológicos), o qual foi escolhido pelo nosso grupo. 
 
 ## Estrutura do Código
 
