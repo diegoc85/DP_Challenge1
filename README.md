@@ -25,7 +25,7 @@ Este código implementa um pequeno sistema de cadastro e a busca de exames patol
        else:
            e['resultado'] = 'fora do intervalo'
 
-    # Esse for é uma iteração sobre cada exame dentro do dicionário `exames` e verifica se a medição realizada está dentro ou fora do intervalo de referência (ref_min e ref_max).
+    - Esse for é uma iteração sobre cada exame dentro do dicionário `exames` e verifica se a medição realizada está dentro ou fora do intervalo de referência (ref_min e ref_max).
 
 3. **Algoritmos Auxiliares** 
 - Insertion Sort: é ideal para listas pequenas como o do código desenvolvido e quase já ordenadas.
