@@ -1,6 +1,6 @@
 # SimplIA – Laboratório DASA 
 
-- GRUPO:
+- GRUPO: 2ESPX
     - DIEGO CABRAL - RM 557817
     - DÉBORA IVANOWSKI - RM 555694
     - ARNALDO FILHO - RM 555780
